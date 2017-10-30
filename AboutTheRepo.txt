@@ -1,0 +1,15 @@
+This Documents is listed here to show about the file in the repositories  !
+
+1. iris.py  
+    In this file i have shown you the all data sets we have in as a feature of the iris flower.
+
+2. irislearning.py
+     In this file i have shown you the proper implementation of the Decision tree classiffer .
+     and all the method - fit() and predict()
+
+3. decissionTree.py
+     In this file i have shown you the implementation of the pdf file of
+     that Decission tree which has been made at time time of the tain of the tree .
+
+4. iris.pdf 
+     In this pdf you can see the proper working of the decission tree . How the Decission tree is working .
