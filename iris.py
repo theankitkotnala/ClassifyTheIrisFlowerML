@@ -8,3 +8,4 @@ print(iris.target[51])
 
 for i in range(len(iris.target)):
     print("example %d : label %s , feature %s" % (i,iris.target , iris.data[i]))
+you are the on
